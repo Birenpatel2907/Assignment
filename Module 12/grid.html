@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .main
+        {
+            border: 3px solid black;
+            display: grid;
+            grid-template-rows: 200px 47px 47px 47px 47px;
+            grid-template-columns: repeat(4,1fr);
+            grid-gap: 10px;
+            text-align: center;
+        }
+        .a
+        {
+            background-color: yellow;
+            grid-column: 1/-1;
+        }
+        .b
+        {
+            background-color: yellow;
+            grid-row: 2/6;
+        }
+        .c
+        {
+            background-color: yellow;    
+            grid-column: 2/3;
+        }
+        .d
+        {
+            background-color: yellow;
+            grid-row: 2/4;
+            grid-column: 3/4;
+        }
+        .e
+        {
+            background-color: yellow;
+            grid-row: 2/5;
+            grid-column: 4/5;
+        }
+        .f
+        {
+            background-color: yellow;
+            grid-row: 3/6;
+        }
+        .g
+        {
+            background-color: yellow;
+        }
+        .h
+        {
+            background-color: yellow;
+        }
+        .i
+        {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="a">1</div>
+        <div class="b">2</div>
+        <div class="c">3</div>
+        <div class="d">4</div>
+        <div class="e">5</div>
+        <div class="f">6</div>
+        <div class="g">7</div>
+        <div class="h">8</div>
+        <div class="i">9</div>
+    </div>
+</body>
+</html>

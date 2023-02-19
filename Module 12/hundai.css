@@ -1,0 +1,370 @@
+.main
+{
+    height: 40px;
+    width: 100%;
+}
+.nav
+{
+    height: 60px;
+    width: 80%;
+    float: left;
+}
+.mainlist
+{
+    list-style: none;
+    float: left;
+    line-height: 30px;
+    padding-left: 35px;
+    cursor: pointer;
+    color: grey;
+}
+.mainlist:hover
+{
+    color: black;
+}
+.icon
+{
+    line-height: 60px;
+    cursor: pointer;
+}
+.section
+{
+    height: 500px;
+    width: 100%;
+    background-color: darkgrey;
+    float: left;
+}
+.subsection
+{
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.subsection img
+{
+    width: 100%;
+    height: 450px;
+}
+h1
+{
+    text-align: center;
+    font-size: 60px;
+}
+.sublist
+{
+    height: 80px;
+    width: 100%;
+}
+.list
+{
+    height: 80px;
+    width: 50%;
+    padding-left: 35%;
+    padding-top: 10px;
+}
+.list1
+{
+    list-style: none;
+    float: left;
+    font-size: 15px;
+    padding-left: 40px;
+    line-height: center;
+}
+.list1:hover
+{
+    border: 2px solid darkgray;
+    border-top: transparent;
+    border-right: transparent;
+    border-left: transparent;
+}
+.image
+{
+    margin-left: 20%;
+}
+.i1
+{
+    float: left;
+    height: 200px;
+    width: 20%;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.i2 
+{
+    list-style: none;
+    font-size: 18px;
+}
+.i3
+{
+    float: left;
+    list-style: none;
+    padding: 10px;
+}   
+.main2
+{
+    height: 180px;
+    width: 100%;
+}
+.nav2
+{
+    height: 100px;
+    width: 100%;
+    background-color: lightgray;    
+    float: left;
+}
+.button
+{
+    margin-left: 70px;
+}
+.button input
+{
+    margin-top: 10px;
+    font-size: 23px;
+    background-color: grey;
+    color: white;
+}
+.nav3
+{
+    background-color: rgb(10, 10, 90);
+    height: 150px;
+    width: 100%;
+    float: left;
+}
+.i4
+{
+    list-style: none;
+    padding-top: 55px;
+}
+.gallery
+{
+    margin: 40px;
+    margin-top: 55px;
+    float: left;
+}
+.desc
+{
+    padding-top: 15px;
+    font-size: 15px;
+    color: blue;
+}
+.desc1
+{
+    font-size: 20px;
+}
+.nav4
+{
+    height: 150px;
+    width: 100%;
+}
+.button2
+{
+  margin-left: 42%; 
+}
+.button2 input
+{
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    margin-top: 10%;
+    border-color: blue;
+}
+.nav5
+{
+    background-color: rgb(10, 10, 90);
+    height: 170px;
+    width: 100%;
+}
+.i5
+{
+    margin-left: 100px;
+    padding-top: 70px;
+}
+.gallery2
+{
+    margin: 100px;
+    margin-top: 50px;
+}
+.i6 img
+{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.section2
+{
+    height: 600px;
+    width: 100%;
+    background-color: lightgray;
+    float: left;
+}
+.subsection2
+{
+    background-color: white;
+    height: 400px;
+    width: 95%;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.i7
+{
+    font-size: 50px;
+    text-align: center;
+}
+.i8
+{
+    text-align: center;
+    color: grey; 
+    font-size: 20px; 
+    
+}
+.i9
+{
+    text-align: center;
+    font-size: 30px;
+}
+.con
+{
+    height: 200px;
+    width: 80%;
+    margin-left: 100px;
+    padding-top: 70px;
+}
+.con input
+{
+    background-color: #002c5f;
+    border: 1px solid #002c5f;
+    color: white;
+    font-size: 25px;
+    margin-left: 43%; 
+}
+.nav6
+{
+    height: 200px;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.i10
+{
+    padding-top: 60px;
+    font-size: 60px;
+    font-weight: 600;
+}
+.i11
+{
+    font-size: 25px;
+    font-weight: 200;
+    padding-top: 10px;
+}
+.nav7
+{
+    height: 200px;
+    width: 100%;
+    background-color: lightgray;
+    float: left;
+}
+.i12 
+{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.i13 
+{   
+    font-size: 18px;
+    border: 1px solid grey;
+    color: #666;
+    border-radius: 0px;
+    margin-left: 120px;
+    padding: 5px;
+}    
+.i14
+{
+  margin-left: 45%;
+  margin-top: 40px;
+}
+.i14 button
+{
+  color: white;
+  background-color: #002c5f;
+  border: 1px solid #002c5f;
+  font-size: 15px;
+  height: 40px;
+  width: 140px;
+  cursor: pointer;
+}
+.nav8
+{
+    background-color: rgb(28, 27, 27);
+    height: 150px;
+    width: 100%;
+    float: left;
+}
+.i15
+{
+    margin-left: 60px;
+}
+.i16
+{
+    list-style: none;
+    float: left;
+    line-height: 40px;
+    padding-left: 20px;
+    cursor: pointer;
+    color: grey;
+    font-size: 15px;
+    cursor: pointer;
+}
+.nav8 img
+{
+    margin-top: 18px;
+    position: relative;
+    right: 50%;
+}
+.icon2 i
+{
+    color: grey;
+    line-height: 50px;
+    position: relative;
+    left: 8%;
+    cursor: pointer;
+}
+.i17
+{
+    color: grey;
+    position: relative;
+    bottom: 15%;
+    font-size: 13px;
+}
+.nav9
+{
+    height: 80px;
+    width: 100%;
+    background-color: #002c5f;
+    float: left;
+    position: sticky;
+    bottom: 0%;
+}
+.i18
+{ 
+    margin-left: 150px;
+}    
+.i18 p 
+{
+    font-size: 23px;
+    color: white;
+}
+.i18 td
+{
+    padding-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
